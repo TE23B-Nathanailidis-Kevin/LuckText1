@@ -1,0 +1,14 @@
+c:\Users\kevin.nathanailidis\Documents\Programmering 1\LuckText\bin\Debug\net8.0\LuckText.exe
+c:\Users\kevin.nathanailidis\Documents\Programmering 1\LuckText\bin\Debug\net8.0\LuckText.deps.json
+c:\Users\kevin.nathanailidis\Documents\Programmering 1\LuckText\bin\Debug\net8.0\LuckText.runtimeconfig.json
+c:\Users\kevin.nathanailidis\Documents\Programmering 1\LuckText\bin\Debug\net8.0\LuckText.dll
+c:\Users\kevin.nathanailidis\Documents\Programmering 1\LuckText\bin\Debug\net8.0\LuckText.pdb
+c:\Users\kevin.nathanailidis\Documents\Programmering 1\LuckText\obj\Debug\net8.0\LuckText.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kevin.nathanailidis\Documents\Programmering 1\LuckText\obj\Debug\net8.0\LuckText.AssemblyInfoInputs.cache
+c:\Users\kevin.nathanailidis\Documents\Programmering 1\LuckText\obj\Debug\net8.0\LuckText.AssemblyInfo.cs
+c:\Users\kevin.nathanailidis\Documents\Programmering 1\LuckText\obj\Debug\net8.0\LuckText.csproj.CoreCompileInputs.cache
+c:\Users\kevin.nathanailidis\Documents\Programmering 1\LuckText\obj\Debug\net8.0\LuckText.dll
+c:\Users\kevin.nathanailidis\Documents\Programmering 1\LuckText\obj\Debug\net8.0\refint\LuckText.dll
+c:\Users\kevin.nathanailidis\Documents\Programmering 1\LuckText\obj\Debug\net8.0\LuckText.pdb
+c:\Users\kevin.nathanailidis\Documents\Programmering 1\LuckText\obj\Debug\net8.0\LuckText.genruntimeconfig.cache
+c:\Users\kevin.nathanailidis\Documents\Programmering 1\LuckText\obj\Debug\net8.0\ref\LuckText.dll
